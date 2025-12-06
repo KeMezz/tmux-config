@@ -1,0 +1,2 @@
+# TPM will manage plugins - exclude from git
+plugins/
